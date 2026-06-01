@@ -28,3 +28,32 @@ operates across both engineering and leadership dimensions.
 | `Enterprise-Data-Governance/Data-ethics-and-privacy-assessment/` | Assessment of data ethics, privacy, security and regulatory compliance |
 | `Enterprise-Data-Governance/Data-ownership-and-metrics/` | Framework defining data ownership responsibilities and key performance metrics |
 | `Enterprise-Data-Governance/Report/` | Executive report critically evaluating data governance practices and strategic recommendations for leadership |
+
+## Part 1 — Enterprise Data Integration
+End-to-end ETL pipeline and star schema data warehouse 
+built using MySQL and Pentaho Data Integration.
+
+🔗 [Go to Enterprise Data Integration](Enterprise-Data-Integration/)
+
+---
+
+## Part 2 — Enterprise Data Governance
+Critical evaluation of enterprise data governance 
+practices with strategic recommendations for 
+organisational leadership.
+
+🔗 [Go to Enterprise Data Governance](Enterprise-Data-Governance/)
+
+---
+
+## Tools Used
+| Tool | Purpose |
+|------|---------|
+| MySQL 8.0 | Data warehouse design and storage |
+| Pentaho PDI | ETL pipeline and data transformation |
+
+
+---
+
+## Author
+**Parth Prasad Songaokar**
