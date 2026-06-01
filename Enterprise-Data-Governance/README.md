@@ -30,10 +30,18 @@ including sharing of personal data without consent, unprofessional handling of d
 has exposed them to penalties of up to AUD 50 million under the Privacy Act 1988.
 
 ### DMM Assessment
-Write your finding here...
+The assessment shows a critical imbalance in five dimensions by scoring each dimension out of 20. The system is technically built and is confirmed 
+by the architecture score of 12.6. However, Governance score is at the lowest level of maturity around 2.7. Organisation and Resources score 
+(below 6) indicates that there is an intent for leadership but it has not been expressed in terms of roles, training and accountability (Vítor Hugo 
+Machado Ribeiro et al., 2024). Around the Data Life Cycle score of 4there are no highlights of the pipeline runs; there is no curation, cataloguing 
+or measurement of value around it. The overall score of 30.4 out of 100 places that show a level of activity in the foundations is not systematic.
 
 ### Ethics and Privacy
 Write your finding here...
 
 ### Data Ownership and Metrics
-Write your finding here...
+The Who Owns This Metric analysis shows that there is no common definition of the Sales business process in 10 countries. The derived measures 
+like Revenue, Margin, Active Customer have not been formally documented. The five breaking factors like the lack of a formal agreement between 
+Finance, Sales and Country Managers on the core definitions, data quality issues, the fact that all knowledge around the pipelines is in just two 
+people in IT, shared login credentials to the stores and the fact that the Marketing and country CRM team uses customer data without proper 
+consent(Bharath Kishore Gudepu, 2019) results in no one being accountable. 
