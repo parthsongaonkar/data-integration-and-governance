@@ -14,3 +14,14 @@ operates across both engineering and leadership dimensions.
 ---
 
 ## Repository Structure
+
+| Folder | Contents |
+|--------|----------|
+| `Data-Integration/report/` | Full written report |
+| `Data-Integration/presentation/` | Slide presentation |
+| `Data-Integration/mysql/` | Data warehouse SQL scripts |
+| `Data-Integration/pentaho/` | ETL transformations and jobs |
+| `Data-Governance/report/` | Executive report |
+| `Data-Governance/presentation/` | Board-level video presentation |
+| `Data-Governance/mysql/` | Governance-related SQL scripts |
+| `Data-Governance/pentaho/` | Updated ETL with governance rules |
