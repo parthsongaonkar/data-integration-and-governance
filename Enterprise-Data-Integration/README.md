@@ -22,8 +22,8 @@ pipeline built in Pentaho Data Integration.
 
 ## Key Findings
 ### Query 1 — Who are the key customers? 
-•	The International market has the largest group of customers with the highest subscription revenue of USD 9,878.48 and the highest margin of USD 125,893.51.
-•	The Rest of Australia is moderately contributing and Victoria has the least revenue and profitability among the three segments.
+•	/The International market has the largest group of customers with the highest subscription revenue of USD 9,878.48 and the highest margin of USD 125,893.51.
+•	/The Rest of Australia is moderately contributing and Victoria has the least revenue and profitability among the three segments.
 •	These findings imply that resources are to be allocated and marketing campaigns made towards international markets. The poor performance of Victoria as a segment offers the strategic chance of targeted improvement efforts to improve the overall organisational performance. 
 
 ### Query 2 — Which products are the most profitable?
