@@ -17,10 +17,13 @@ operates across both engineering and leadership dimensions.
 
 | Folder | Contents |
 |--------|----------|
-| `Data-Integration/report/` | Full written report |
-| `Data-Integration/presentation/` | Slide presentation |
-| `Data-Integration/mysql/` | Data warehouse SQL scripts |
-| `Data-Integration/pentaho/` | ETL transformations and jobs |
+| `Enterprise-Data-Integration/Report/` | Full written report documenting the integration process |
+| `Enterprise-Data-Integration/Presentation/` | Slide presentation covering approach and findings |
+| `Enterprise-Data-Integration/mysql-files/` | SQL scripts for database creation and analysis queries |
+| `Enterprise-Data-Integration/Data-Strategy-Canvas/` | Strategic canvas outlining the data integration approach |
+| `Enterprise-Data-Integration/Data-flow-architecture/` | Visual diagram showing the data flow across the pipeline |
+| `Enterprise-Data-Integration/Dataset/` | Raw dataset used for building the data warehouse |
+| `Enterprise-Data-Integration/Dimension-model-architecture/` | Architectural design diagram of the data warehouse structure |
 | `Data-Governance/report/` | Executive report |
 | `Data-Governance/presentation/` | Board-level video presentation |
 | `Data-Governance/mysql/` | Governance-related SQL scripts |
