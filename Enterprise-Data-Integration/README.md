@@ -14,7 +14,7 @@ pipeline built in Pentaho Data Integration.
 | `Presentation/` | PowerPoint presentation |
 | `Data-flow-architecture/` | Data flow architecture diagram |
 | `Data-Strategy-Canvas/` | Data strategy canvas diagram |
-| `Dimension-model-design/` | Dimension model design for all the tables |
+| `Dimension-model-architecture/` | Dimension model design for all the tables |
 
 ## Tools Used
 - MySQL 8.0
