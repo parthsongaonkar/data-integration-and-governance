@@ -24,7 +24,4 @@ operates across both engineering and leadership dimensions.
 | `Enterprise-Data-Integration/Data-flow-architecture/` | Visual diagram showing the data flow across the pipeline |
 | `Enterprise-Data-Integration/Dataset/` | Raw dataset used for building the data warehouse |
 | `Enterprise-Data-Integration/Dimension-model-architecture/` | Architectural design diagram of the data warehouse structure |
-| `Data-Governance/report/` | Executive report |
-| `Data-Governance/presentation/` | Board-level video presentation |
-| `Data-Governance/mysql/` | Governance-related SQL scripts |
-| `Data-Governance/pentaho/` | Updated ETL with governance rules |
+| `Enterprise-Data-Governance/Report/` | Executive report |
