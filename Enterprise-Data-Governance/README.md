@@ -22,12 +22,6 @@ for organisational leadership.
 - Strategic recommendations for senior leadership
 
 ## Key Findings
-### Data Governance
-The assessment of the Five P's highlights a HIGH risk in the categories of Provenance and Privacy, and a MEDIUM risk in the categories of Purpose 
-and Protection, and LOW risk in the category of Preparation. The most serious and unethical practice being unauthorized resale of customer 
-information (Tavani & Moor, 2001). Against the Australian Privacy Principles (APP), ICE Entertainment is Non-Compliant with most of the APP, 
-including sharing of personal data without consent, unprofessional handling of data, indefinite data retention and no data breach recovery plan 
-has exposed them to penalties of up to AUD 50 million under the Privacy Act 1988.
 
 ### DMM Assessment
 The assessment shows a critical imbalance in five dimensions by scoring each dimension out of 20. The system is technically built and is confirmed 
@@ -37,7 +31,11 @@ Machado Ribeiro et al., 2024). Around the Data Life Cycle score of 4there are no
 or measurement of value around it. The overall score of 30.4 out of 100 places that show a level of activity in the foundations is not systematic.
 
 ### Ethics and Privacy
-Write your finding here...
+The assessment of the Five P's highlights a HIGH risk in the categories of Provenance and Privacy, and a MEDIUM risk in the categories of Purpose 
+and Protection, and LOW risk in the category of Preparation. The most serious and unethical practice being unauthorized resale of customer 
+information (Tavani & Moor, 2001). Against the Australian Privacy Principles (APP), ICE Entertainment is Non-Compliant with most of the APP, 
+including sharing of personal data without consent, unprofessional handling of data, indefinite data retention and no data breach recovery plan 
+has exposed them to penalties of up to AUD 50 million under the Privacy Act 1988.
 
 ### Data Ownership and Metrics
 The Who Owns This Metric analysis shows that there is no common definition of the Sales business process in 10 countries. The derived measures 
@@ -45,3 +43,12 @@ like Revenue, Margin, Active Customer have not been formally documented. The fiv
 Finance, Sales and Country Managers on the core definitions, data quality issues, the fact that all knowledge around the pipelines is in just two 
 people in IT, shared login credentials to the stores and the fact that the Marketing and country CRM team uses customer data without proper 
 consent(Bharath Kishore Gudepu, 2019) results in no one being accountable. 
+
+## Recommendation
+1. Decide Metric Ownership, by defining revenue, margin, and active customers. 
+2. Document Institutional Knowledge, Cross Train Additional Staff.  
+3. Develop Data Literacy program in the responsibility of data handling and model adoption (Stoyanovich et al., 2022). 
+4. All the programs/initiatives that use customer data without proper permission and fail to meet NDB obligations must be 
+stopped.  
+5. Establish Formal Data Governance (FDO) Formalise data ownership, stewards and custodians of all priority data assets 
+(Wende, n.d.). 
