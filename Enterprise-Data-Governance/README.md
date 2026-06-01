@@ -23,7 +23,11 @@ for organisational leadership.
 
 ## Key Findings
 ### Data Governance
-Write your finding here...
+The assessment of the Five P's highlights a HIGH risk in the categories of Provenance and Privacy, and a MEDIUM risk in the categories of Purpose 
+and Protection, and LOW risk in the category of Preparation. The most serious and unethical practice being unauthorized resale of customer 
+information (Tavani & Moor, 2001). Against the Australian Privacy Principles (APP), ICE Entertainment is Non-Compliant with most of the APP, 
+including sharing of personal data without consent, unprofessional handling of data, indefinite data retention and no data breach recovery plan 
+has exposed them to penalties of up to AUD 50 million under the Privacy Act 1988.
 
 ### DMM Assessment
 Write your finding here...
