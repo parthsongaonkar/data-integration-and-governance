@@ -1,4 +1,4 @@
-# Data Integration and Governance Portfolio
+# Retail sales data warehouse & profitability analysis
 
 ## Overview
 This repository presents a two-part data management portfolio 
